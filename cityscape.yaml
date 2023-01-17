@@ -1,0 +1,9 @@
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: ../cityscape  # dataset root dir
+train: images/train  # train images (relative to 'path') 118287 images
+val: images/val  # val images (relative to 'path') 5000 images
+test: images/test  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+
+# Classes
+nc: 38  # number of classes
+names: ['rectification border', 'sky', 'building', 'road', 'sidewalk', 'terrain', 'static', 'vegetation', 'car', 'pole', 'ground', 'traffic light', 'bridge', 'parking', 'traffic sign', 'dynamic', 'motorcycle', 'persongroup', 'cargroup', 'person', 'train', 'license plate', 'bicycle', 'fence', 'wall', 'rider', 'bicyclegroup', 'truck', 'polegroup', 'bus', 'trailer', 'rail track', 'caravan', 'tunnel', 'ridergroup', 'guard rail', 'motorcyclegroup', 'truckgroup']  # class names
