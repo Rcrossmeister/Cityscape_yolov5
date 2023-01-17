@@ -5,7 +5,7 @@
 
 > Cityscape数据集官网下载链接：https://www.cityscapes-dataset.com/news/
 >
-> Cityscape数据集个人网盘链接：
+> Cityscape数据集个人网盘链接：链接: https://pan.baidu.com/s/1njtEAV11gs_ZWhtelB1iZw?pwd=x5kx 提取码: x5kx 
 
 ## 使用：
 
@@ -14,8 +14,8 @@
 ```shell
 mkdir ./cityscape
 unzip gtFine_trainvaltest.zip -d ./cityscape
-mv ./abc ./getfine
-mv ./abc ./leftImg8bit
+mv ./gtFine_trainvaltest ./getfine
+mv ./leftImg8bit_trainvaltest ./leftImg8bit
 ```
 
 2. 在当前目录下进行数据处理
@@ -59,3 +59,4 @@ names: ['rectification border', 'road', 'sidewalk', ··· , 'ridergroup', 'truc
 6. 将cityscape.yaml复制到./yolov5/data中
 
 至此，完成数据集的准备工作
+
