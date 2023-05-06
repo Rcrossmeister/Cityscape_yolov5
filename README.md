@@ -60,3 +60,6 @@ names: ['rectification border', 'road', 'sidewalk', ··· , 'ridergroup', 'truc
 
 至此，完成数据集的准备工作
 
+7. Benchmark
+
+mAP = 42.25
