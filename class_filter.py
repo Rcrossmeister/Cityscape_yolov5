@@ -1,12 +1,12 @@
 city = 'munich_'
 city_index = '_000019_leftImg8bit.txt'
 
-pic_number = 398
+pic_number = 398 #待处理图片数量
 
-local_path = '/Users/rcross/Desktop/工作/科研/SCI/Dataset/cityscape/labels/test/'
-target_path = '/Users/rcross/Desktop/工作/科研/SCI/Dataset/cityscape_original/labels/test/'
+local_path = '' # 数据集中Class.txt的存放位置
+target_path = '' # 目标位置
 
-class_list = ['25','33','26','3','23','14','15','28','19','22','10','6','11','7','17','18','21','27','28','29']
+class_list = [] # 想要进行检测的类别
 
 for i in range(pic_number):
     zero_number = 6-len(str(i))
