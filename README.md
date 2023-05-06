@@ -5,7 +5,7 @@
 
 > Cityscape数据集官网下载链接：https://www.cityscapes-dataset.com/news/
 >
-> Cityscape数据集个人网盘链接：链接: https://pan.baidu.com/s/1njtEAV11gs_ZWhtelB1iZw?pwd=x5kx 提取码: x5kx 
+> Cityscape数据集个人网盘链接：链接: https://pan.baidu.com/s/1njtEAV11gs_ZWhtelB1iZw? 提取码: x5kx 
 
 ## 使用：
 
@@ -49,7 +49,7 @@ print(tmp)
 path: ../cityscape  # dataset root dir
 train: images/train  # train images (relative to 'path') 118287 images
 val: images/val  # val images (relative to 'path') 5000 images
-test: images/test  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+test: images/test  
 
 # Classes
 nc: 38  # number of classes
