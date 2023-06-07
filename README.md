@@ -26,7 +26,7 @@ python handle.py
 ```
 
 3. 生成images和labels目录
-4. 提取labels中的class的顺序
+4. 提取labels中的class的顺序 (Recommend)
 
 * __由于生成的class顺序不一定一样，推荐用以下方法读取自己的顺序__
 
@@ -62,4 +62,7 @@ names: ['rectification border', 'road', 'sidewalk', ··· , 'ridergroup', 'truc
 
 7. Benchmark
 
-mAP = 42.25
+```
+mAP = 42.25(Full classes)
+```
+
