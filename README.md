@@ -7,7 +7,7 @@
 >
 > Cityscape数据集个人网盘链接：链接: https://pan.baidu.com/s/1njtEAV11gs_ZWhtelB1iZw? 提取码: x5kx 
 
-## 使用：
+## Use:
 
 1. 创建新目录，解压下载文件到新目录下，并将文件重命名
 
