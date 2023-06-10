@@ -9,7 +9,7 @@
 
 ## Use:
 
-1. 创建新目录，解压下载文件到新目录下，并将文件重命名
+1. create new dic，解压下载文件到新目录下，并将文件重命名
 
 ```shell
 mkdir ./cityscape
