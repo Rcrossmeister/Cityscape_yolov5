@@ -62,7 +62,5 @@ names: ['rectification border', 'road', 'sidewalk', ··· , 'ridergroup', 'truc
 
 7. Benchmark
 
-```
-mAP = 42.25(Full classes)
-```
+__mAP = 42.25(Full classes)__
 
