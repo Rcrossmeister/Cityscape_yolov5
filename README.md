@@ -1,5 +1,5 @@
 # Cityscape_yolov5
- 将Cityscape数据集转化为yolov5格式后，运行街景道路的目标检测任务
+ 将Cityscape数据集转化为yolov5格式后，运行街景道路的目标检测任务（自动驾驶导向）
 
 ## Datasets:
 
